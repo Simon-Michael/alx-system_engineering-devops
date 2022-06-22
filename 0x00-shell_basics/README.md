@@ -8,7 +8,7 @@
 
 * *All the scripts are exactly two lines long*
 * *The first line of all the files is [#!/bin/bash](https://en.wikipedia.org/wiki/Shebang_%28Unix%29). Click the link to see why.*
-* *All the scripts are made to be executable using: (chmod u+x file_name) or to make executable and add it at the same time use (git add -chmod=+x file_name) or without specifing (git add -chmod=+x .)*
+* *All the scripts are made to be executable using: (chmod u+x file_name) or to make executable and add it at the same time use (git add --chmod=+x file_name) or without specifing (git add --chmod=+x .)*
 
 Mandatory tasks:
 
